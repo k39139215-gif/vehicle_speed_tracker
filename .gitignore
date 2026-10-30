@@ -1,0 +1,21 @@
+# Raw video datasets and benchmarks (>100MB)
+data/
+downloads/
+temp_benchmark_cache/
+test_results/
+reports/
+*.mp4
+*.avi
+*.mkv
+*.webm
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+
+# Python & Environment
+__pycache__/
+*.py[cod]
+.venv/
+venv/

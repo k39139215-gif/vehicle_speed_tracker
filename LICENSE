@@ -1,0 +1,12 @@
+PROPRIETARY & CONFIDENTIAL LICENSE
+Copyright (c) 2026 Kartik. All Rights Reserved.
+
+This software, source code, computer vision algorithms, 4-point homography calibration, radar ground-truth evaluators, and architecture are provided solely for viewing, evaluation, and portfolio demonstration purposes.
+
+TERMS AND CONDITIONS:
+1. RESTRICTION OF USE: You may NOT copy, reproduce, modify, redistribute, sublicense, lease, or commercially exploit any portion of this codebase or its speed tracking algorithms without explicit prior written authorization from the copyright holder.
+2. NO DERIVATIVE WORKS: You may not use this software, its algorithms, or its architectural patterns to build, host, or deploy derivative products, competing traffic radar tools, or speed enforcement systems.
+3. REVERSE ENGINEERING: Decompilation, scraping, or utilizing this codebase to train proprietary or public machine learning models is strictly prohibited.
+4. AS-IS DISCLAIMER: This software is provided "AS IS", without warranty of any kind, express or implied.
+
+For enterprise licensing, bespoke deployment, or municipal ITS partnerships, please contact the repository author.
